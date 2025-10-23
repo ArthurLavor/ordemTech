@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad4c4f4c-a3a8-40f2-a4e2-2231f850e190" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ordemTech/src/main/java/com/OrdemTech/user/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ordemTech/src/main/java/com/OrdemTech/user/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ordemTech/src/main/java/com/OrdemTech/user/UserRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ordemTech/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ordemTech/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ordemTech/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ordemTech/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="34LxeWyVoPMUWrn92gON64c11bk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/arthu/Downloads/demo",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\arthu\OneDrive\Documentos\fullstackpro\projetos\projetospessoais\ordemTech\ordemTech\src\main\java\com\OrdemTech" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad4c4f4c-a3a8-40f2-a4e2-2231f850e190" name="Changes" comment="" />
+      <created>1761006748907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761006748907</updated>
+    </task>
+    <servers />
+  </component>
+</project>
